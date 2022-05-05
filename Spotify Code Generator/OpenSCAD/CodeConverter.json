@@ -1,0 +1,12 @@
+{
+    "parameterSets": {
+        "Standardwerte des Designs": {
+            "$fn": "50",
+            "baseheight": "4",
+            "codeheight": "4",
+            "filepath": "C:\/Users\/Shuff\/Desktop\/code.svg",
+            "keychain": "true"
+        }
+    },
+    "fileFormatVersion": "1"
+}
