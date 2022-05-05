@@ -1,6 +1,8 @@
 This is a little program that takes Spotify URLs and converts them into scannable STL files of the Spotify Code.
-To use the Source Code, you need to have .NET 6.0 Runtime installed on your Machine. The program was initially written in .NET 6.0, but was later switched to .NET Framework to run without installing any additional dependencies for most users.
+To use the Source Code, you need to have .NET 6.0 Runtime installed on your Machine. The program was initially written in .NET 6.0, but the release was switched to .NET Framework to run without installing any additional dependencies for windows users.
 If the application still doesnt start for you though, download the latest update of [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+
+If you want to run the Generator on Linux or MacOS based systems, the source code is written in .NET6.0 and can be compiled for your architecture.
 
 If you like my work, consider donating something. Its not needed, but always nice to see!
 
